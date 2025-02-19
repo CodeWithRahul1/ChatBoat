@@ -1,4 +1,4 @@
-🤖 Your Chat Boat ChatBot 🧠
+🤖 Your Chat Boat 🧠
 A Streamlit-based chatbot using LLaMA 3.3-70B and LangChain Groq to provide AI-powered conversations.
 
 📌 Features
